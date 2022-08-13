@@ -1,0 +1,56 @@
+@import url('https://fonts.googleapis.com/css?family=Poppins:200,300,400,500,600,700,800,900&display=swap');
+/* body
+{
+  
+    background-color: rgb(0, 255, 221);
+
+} */
+
+
+
+form
+{
+    background-color: palegreen;
+}
+
+  /* ol
+  li
+  {
+    
+    border: 0;
+          line-height: 2;
+          padding: 0 50px;
+          font-size: 1rem;
+          text-align: center;
+          color: rgb(255, 255, 255);
+          text-shadow: 1px 1px 1px #000;
+          border-radius: 10px;
+          background-color: rgb(0, 194, 220);
+          background-image: linear-gradient(to top left,
+                                            rgba(0, 0, 0, .2),
+                                            rgba(0, 0, 0, .2) 30%,
+                                            rgba(0, 0, 0, 0));
+          box-shadow: inset 2px 2px 3px rgba(255, 255, 255, .6),
+                      inset -2px -2px 3px rgba(0, 0, 0, .6);
+  } */
+
+    #formFileSm{
+  width: 20%;
+}
+
+.adi{
+  width: 30%;
+}
+.row,
+.col{
+  width: 45%;
+}
+#datetimepicker1{
+  position: absolute;
+  left: 0%;
+  width: 20%;
+}
+.done
+button{
+        color: black;
+}

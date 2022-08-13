@@ -1,0 +1,17 @@
+body{
+    background-color: aqua;
+}
+h1{
+    color: brown;
+}
+p{
+    
+    margin-right: 40%;
+}
+p
+img{
+    position: absolute;
+    margin-top: -20%;
+    right:10%;
+    width: 30%;
+}
